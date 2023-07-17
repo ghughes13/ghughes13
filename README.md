@@ -55,11 +55,6 @@
   <li>
     <a href="https://www.youtube.com/watch?v=YUVsUnWcY3o&t=10s&ab_channel=SelfTaughtDev">
       <b>
-        <img 
-             src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" 
-             width="20" 
-             alt="new" 
-         /> 
         How To Increate Your Productivity In VS Code
       </b>
     </a>
@@ -67,12 +62,7 @@
   <li>
     <a href="https://www.youtube.com/watch?v=WiE-C-nVsNw&t=1s&ab_channel=SelfTaughtDev">
       <b>
-        <img 
-             src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" 
-             width="20" 
-             alt="new" 
-         /> 
-        How To Add A Gradient Box Shadow To An Element
+       How To Add A Gradient Box Shadow To An Element
       </b>
     </a>
   </li>
