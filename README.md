@@ -1,5 +1,7 @@
 <h2>Welcome 👋</h2>
-<p> I'm Garrett, a developer in <b>Dallas, TX</b></p>
+<p>Hey there, I'm Garrett. </p>
+
+<p>Graduated college with a BS in marketing in 2016. Realized I'd made a mistake and loved coding. Started waking up at 5am to study front end development before work. Came home and studied for hours after I got home from work. Built a portfolio. Applied to hundreds of jobs. Finally got one at TRIDigital Marketing. Eventually got good enough to work at their sister company HoneyCRM (GlassHive). Got recruited to work at Chase. Got recruited to work at American Express. Now I get to do what I love and code every day.</p>
 
 <h2>Things I code with</h2>
 <p>
