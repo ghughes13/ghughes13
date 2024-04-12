@@ -91,12 +91,12 @@
   <img align="left" alt="Garrett Hughes's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/hE2JZcj">
-  <img align="left" alt="Garrett Hughes's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Garrett Hughes's Discord" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico" />
 </a>
 <a href="https://twitter.com/ghughes139">
-  <img align="left" alt="Garrett Hughes | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Garrett Hughes | Twitter - X" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/garrett-hughes-5320626b/">
-  <img align="left" alt="Garrett Hughes's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Garrett Hughes's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 
