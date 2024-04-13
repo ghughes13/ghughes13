@@ -99,6 +99,6 @@
 <a href="https://www.linkedin.com/in/garrett-hughes-5320626b/">
   <img align="left" alt="Garrett Hughes's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="[https://www.linkedin.com/in/garrett-hughes-5320626b/](https://www.youtube.com/@selftaughtdev8267)">
+<a href="https://www.youtube.com/@selftaughtdev8267">
   <img align="left" alt="Self Taught Dev Youtube" width="22px" src="https://www.youtube.com/s/desktop/f45068c8/img/favicon_48x48.png" />
 </a>
