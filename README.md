@@ -1,9 +1,11 @@
-<h2>Welcome 👋</h2>
-<p>Hey there, I'm Garrett. </p>
+### Welcome 👋
+Hey there, I'm Garrett. 
 
-<p>Graduated college with a BS in marketing in 2016. Realized I'd made a mistake and loved coding. Started waking up at 5am to study front end development before work. Came home and studied for hours after I got home from work. Built a portfolio. Applied to hundreds of jobs. Finally got one at TRIDigital Marketing. Eventually got good enough to work at their sister company HoneyCRM (GlassHive). Got recruited to work at Chase. Got recruited to work at American Express. Now I get to do what I love and code every day.</p>
+Graduated college with a BS in marketing in 2016. Realized I'd made a mistake and loved coding. Started waking up at 5am to study front end development before work. Came home and studied for hours after I got home from work. Built a portfolio. Applied to hundreds of jobs. Finally got one at TRIDigital Marketing. Eventually got good enough to work at their sister company HoneyCRM (GlassHive). Got recruited to work at Chase. Got recruited to work at American Express. Moved to a startup called DoorCast and got into full stack work. Now I get to do what I love and code every day.
 
-<h2>Things I code with</h2>
+---
+
+### Things I code with
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,7 +29,9 @@
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </p>
 
-<h2>My latest posts on <a href="https://blog.selftaught-dev.com/">My Blog</a></h2>
+---
+
+### My latest posts on <a href="https://blog.selftaught-dev.com/">My Blog</a>
 <ul>
   <li>
     <a href="https://blog.selftaught-dev.com/blog/2021-06-06-where-to-host-your-developer-projects-for-free/">
@@ -52,7 +56,9 @@
   </li>
 </ul>
 
-<h2>My latest videos on <a href="https://www.youtube.com/channel/UC_CWq39fcBPCmgKYZ0yProg">YouTube</a></h2>
+---
+
+### My latest videos on <a href="https://www.youtube.com/channel/UC_CWq39fcBPCmgKYZ0yProg">YouTube</a></h2>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [🔴 Live - Building A YouTube Thumbnail Extractor Extension](https://www.youtube.com/watch?v=VaYmJM3pxbw)
 - [🔴 Live - Building A YouTube Thumbnail Extractor Extension](https://www.youtube.com/watch?v=DRH9p7w4TkQ)
@@ -60,8 +66,9 @@
 - [How To Create A Reddit Ad Block Chrome Extension - Chrome Extensions &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=NceckZMFj20)
 - [How To Build Your First Google Chrome Extension &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=3ehx3HFo9_4)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
+---
 
-<h2>GitHub Stats</h2>
+### GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ghughes13)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -69,7 +76,8 @@
 ![](https://raw.githubusercontent.com/ghughes13/github-stats-transparent/output/generated/languages.svg)
 ![](https://komarev.com/ghpvc/?username=ghughes13)
 
-<h2>Where to find me</h2>
+---
+ ### Where to find me
 
 <a href="https://www.instagram.com/ghughes13/">
   <img align="left" alt="Garrett Hughes's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
