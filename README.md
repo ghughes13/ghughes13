@@ -53,29 +53,8 @@
 </ul>
 
 <h2>My latest videos on <a href="https://www.youtube.com/channel/UC_CWq39fcBPCmgKYZ0yProg">YouTube</a></h2>
-<ul>
-  <li>
-    <a href="https://www.youtube.com/watch?v=YUVsUnWcY3o&t=10s&ab_channel=SelfTaughtDev">
-      <b>
-        How To Increate Your Productivity In VS Code
-      </b>
-    </a>
-  </li>
-  <li>
-    <a href="https://www.youtube.com/watch?v=WiE-C-nVsNw&t=1s&ab_channel=SelfTaughtDev">
-      <b>
-       How To Add A Gradient Box Shadow To An Element
-      </b>
-    </a>
-  </li>
-    <li>
-    <a href="https://www.youtube.com/watch?v=oH1Qrgv_M80&t=53s&ab_channel=SelfTaughtDev">
-      <b>
-       🔴 Let's Build - Shortr (React Project - URL Shortener)
-      </b>
-    </a>
-  </li>
-</ul>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 <h2>GitHub Stats</h2>
 
