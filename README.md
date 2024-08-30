@@ -60,11 +60,6 @@ Graduated college with a BS in marketing in 2016. Realized I'd made a mistake an
 
 ### My latest videos on <a href="https://www.youtube.com/channel/UC_CWq39fcBPCmgKYZ0yProg">YouTube</a></h2>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [🔴 Live - Building A YouTube Thumbnail Extractor Extension](https://www.youtube.com/watch?v=VaYmJM3pxbw)
-- [🔴 Live - Building A YouTube Thumbnail Extractor Extension](https://www.youtube.com/watch?v=DRH9p7w4TkQ)
-- [How To Setup A Monorepo With NX](https://www.youtube.com/watch?v=R-96P5rBhUE)
-- [How To Create A Reddit Ad Block Chrome Extension - Chrome Extensions &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=NceckZMFj20)
-- [How To Build Your First Google Chrome Extension &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=3ehx3HFo9_4)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 ---
 
