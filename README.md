@@ -60,11 +60,11 @@ Graduated college with a BS in marketing in 2016. Realized I'd made a mistake an
 
 ### My latest videos on <a href="https://www.youtube.com/channel/UC_CWq39fcBPCmgKYZ0yProg">YouTube</a></h2>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Making Your First API Routes With Nest JS](https://www.youtube.com/watch?v=-eW5U1h7fuw)
 - [How To Automatically Update Github Readme/Profile With Data From RSS An Feed - Add New Blogs Posts](https://www.youtube.com/watch?v=Jg4F8v0wbKM)
 - [🔴 Live - Building A YouTube Thumbnail Extractor Extension](https://www.youtube.com/watch?v=VaYmJM3pxbw)
 - [🔴 Live - Building A YouTube Thumbnail Extractor Extension](https://www.youtube.com/watch?v=DRH9p7w4TkQ)
 - [How To Setup A Monorepo With NX](https://www.youtube.com/watch?v=R-96P5rBhUE)
-- [How To Create A Reddit Ad Block Chrome Extension - Chrome Extensions &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=NceckZMFj20)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 ---
 
