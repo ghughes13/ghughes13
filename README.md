@@ -60,11 +60,11 @@ Graduated college with a BS in marketing in 2016. Realized I'd made a mistake an
 
 ### My latest videos on <a href="https://www.youtube.com/channel/UC_CWq39fcBPCmgKYZ0yProg">YouTube</a></h2>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Boost Your Coding Speed With This Trick](https://www.youtube.com/watch?v=AqlL8ESOYmQ)
 - [How To Use Open Ai&#39;s Assistant API](https://www.youtube.com/watch?v=b0HC-zx4GM0)
 - [What If AI Took Over Booking Appointments For You?!](https://www.youtube.com/watch?v=s_uAnFb_qU4)
 - [How To Make Your First API Request To Chat GPT | Open AI](https://www.youtube.com/watch?v=MHSoogsyY9k)
 - [🔴 Live - Adding Local Storage Access To A Chrome Extension](https://www.youtube.com/watch?v=DRH9p7w4TkQ)
-- [🔴 Live - Adding Local Storage Access To A Chrome Extension](https://www.youtube.com/watch?v=Ulz_j77lSSM)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 ---
 
