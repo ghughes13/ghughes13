@@ -66,11 +66,16 @@ Graduated college with a BS in marketing in 2016. Realized I'd made a mistake an
 - [What If AI Took Over Booking Appointments For You?!](https://www.youtube.com/watch?v=s_uAnFb_qU4)
 - [How To Make Your First API Request To Chat GPT | Open AI](https://www.youtube.com/watch?v=MHSoogsyY9k)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
+
+---
+ ### Active Projects
+
+- <a href="https://chromewebstore.google.com/detail/get-page-images/cdmclclkmmhclplcfjaglceaahcjplcd">Get Page Images</a> - Chrome Extension with Over 2000 users. Will crawl HTML and CSS on a site and give the user the abilty to easily click and download all images.
+
 ---
 
-### GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ghughes13)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
 
 ![](https://raw.githubusercontent.com/ghughes13/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/ghughes13/github-stats-transparent/output/generated/languages.svg)
