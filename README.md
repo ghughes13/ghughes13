@@ -60,11 +60,11 @@ Graduated college with a BS in marketing in 2016. Realized I'd made a mistake an
 
 ### My latest videos on <a href="https://www.youtube.com/channel/UC_CWq39fcBPCmgKYZ0yProg">YouTube</a></h2>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Run Claude Code FREE With Local Models + Cloud Proxy](https://www.youtube.com/watch?v=bMdoyQAcSEU)
 - [How To Build Automated Workflows with Opal | Gemini Gem Labs](https://www.youtube.com/watch?v=GDhQFk2E2Ns)
 - [How To Use Gemini Gems](https://www.youtube.com/watch?v=q5UvqVCr4xg)
 - [How To Interact With Gemini Via The API](https://www.youtube.com/watch?v=slID9Hx8HLY)
 - [How To Use Bash Aliases To Increase Your Productivity In The Terminal](https://www.youtube.com/watch?v=AqlL8ESOYmQ)
-- [How To Use Open Ai&#39;s Assistant API](https://www.youtube.com/watch?v=b0HC-zx4GM0)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ---
