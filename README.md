@@ -60,7 +60,7 @@ Graduated college with a BS in marketing in 2016. Realized I'd made a mistake an
 
 ### My latest videos on <a href="https://www.youtube.com/channel/UC_CWq39fcBPCmgKYZ0yProg">YouTube</a></h2>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Run Claude Code FREE With Local Models + Cloud Proxy](https://www.youtube.com/watch?v=bMdoyQAcSEU)
+- [The BEST Free Claude Code Setup &lpar;Ollama + Proxy Tutorial&rpar;](https://www.youtube.com/watch?v=bMdoyQAcSEU)
 - [How To Build Automated Workflows with Opal | Gemini Gem Labs](https://www.youtube.com/watch?v=GDhQFk2E2Ns)
 - [How To Use Gemini Gems](https://www.youtube.com/watch?v=q5UvqVCr4xg)
 - [How To Interact With Gemini Via The API](https://www.youtube.com/watch?v=slID9Hx8HLY)
